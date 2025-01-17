@@ -1,0 +1,9 @@
+{
+  "name": "@components/ui",
+  "description": "description",
+  "authors": "author",
+  "version": "1.0.0",
+  "exports": {
+    "./components/*": "./src/components/*.tsx"
+  }
+}
