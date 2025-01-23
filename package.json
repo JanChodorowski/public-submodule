@@ -1,10 +1,10 @@
 {
-  "name": "@components/ui",
+  "name": "@repo/public-submodule",
   "description": "description",
   "authors": "author",
   "version": "1.0.0",
   "exports": {
-    "./components/*": "./src/components/*.tsx"
+    "./button": "./components/ui/button.tsx"
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.1.1",
